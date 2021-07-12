@@ -239,7 +239,7 @@
 // git remote -v
 // https://lodos14.github.io/movie_app_2021
 // package.json 에 "homepage": "https://lodos14.github.io/movie_app_2021" 추가
-// package.json 의 scripts에 "deploy" : "ph-pages -d build" 추가
+// package.json 의 scripts에 "deploy" : "gh-pages -d build" 추가
 // npm run build
 // package.json 의 scripts에 "predeploy":"npm run build"
 // 기본적으로 depoly를 호출 할 때마다 predeploy를 먼저 호출해줌
